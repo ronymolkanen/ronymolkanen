@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronymolkanen&label=Profile%20views&color=0e75b6&style=flat" alt="ronymolkanen" /> </p>
 
-- 🌱 I’m currently learning **RPA and data science**
+- 🌱 I’m currently learning **Machine Learning & AI**
 
 - 👯 I’m looking to collaborate on **anything I find interesting**
 
