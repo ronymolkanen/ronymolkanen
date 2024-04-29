@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rony.molkanen@outlook.com**
 
-- ⚡ Fun fact **I love hockey!**
+- ⚡ Fun fact **I am a hockey dude!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
